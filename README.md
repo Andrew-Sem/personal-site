@@ -1,2 +1,2 @@
 # Andrew Semyonov personal site
-Check it out: [Link](https://andrew-semenov.vercel.app)
+Check it out: [Link](https://andrew-semyonov.vercel.app)
