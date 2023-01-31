@@ -6,7 +6,7 @@ export default function Home() {
         <main className={"container mx-auto px-4"}>
             <div className={"lg:w-3/5"}>
                 <h1 className={"text-7xl mt-10 font-semibold"}>Hello</h1>
-                <h3 className={"text-3xl mt-5 "}>My name is Andrew Semenov</h3>
+                <h3 className={"text-3xl mt-5 "}>My name is Andrew Semyonov</h3>
                 <P>
                     I am frontend developer, currently located in Volzhskiy, Russia.<br/>
                     You can find my projects on&nbsp;
