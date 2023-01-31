@@ -8,7 +8,7 @@ export default function Home() {
                 <h1 className={"text-7xl mt-10 font-semibold"}>Hello</h1>
                 <h3 className={"text-3xl mt-5 "}>My name is Andrew Semenov</h3>
                 <P>
-                    I'm frontend developer, currently located in Volzhskiy, Russia.<br/>
+                    I am frontend developer, currently located in Volzhskiy, Russia.<br/>
                     You can find my projects on&nbsp;
                     <Link href={"https://github.com/Andrew-Sem"}>GitHub</Link>
                 </P>
