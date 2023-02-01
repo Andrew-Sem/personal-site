@@ -27,12 +27,13 @@ export default function Home() {
             Games Store
           </Link>
         </P>
-        <div className={"mt-5 flex space-x-2 items-center"}>
-          <h4 className={"text-2xl"}>Resume</h4>
-          <a href="/pdfs/resume.pdf" download={"resume.pdf"}>
-            Download
-          </a>
-        </div>
+        <P>
+          My&nbsp;
+          <Link href="/pdfs/Resume.pdf" target="_blank">
+            resume
+          </Link>
+          &nbsp;is available for your perusal
+        </P>
         <div className={"mt-5"}>
           <h4 className={"text-2xl"}>Contact me</h4>
           <ul className={"space-y-1"}>
