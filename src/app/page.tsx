@@ -20,6 +20,10 @@ export default function Home() {
                         Games Store
                     </Link>
                 </P>
+                <div className={"mt-5 flex space-x-2 items-center"}>
+                    <h4 className={"text-2xl"}>Resume</h4>
+                    <a href='../../public/Resume.pdf' download={'losos.pdf'}>Download</a>
+                </div>
                 <div className={"mt-5"}>
                     <h4 className={"text-2xl"}>Contact me</h4>
                     <ul className={"space-y-1"}>
