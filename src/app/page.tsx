@@ -5,18 +5,18 @@ export default function Home() {
   return (
     <main className={"container mx-auto px-4"}>
       <div className={"lg:w-3/5"}>
-        <h1 className={"text-7xl mt-10 font-semibold"}>Hello</h1>
-        <h3 className={"text-3xl mt-5 "}>My name is Andrew Semyonov</h3>
+        <h1 className={"text-7xl mt-10 font-semibold"}>Привет!</h1>
+        <h3 className={"text-3xl mt-5 "}>Меня зовут Андрей Семёнов</h3>
         <P>
-          I am frontend developer, currently located in Volzhskiy, Russia.
+          Я фронтенд разработчик, сейчас живу в Волжском, Россия.
           <br />
-          You can find my projects on&nbsp;
+          Вы можете найти мои проекты на&nbsp;
           <Link href={"https://github.com/Andrew-Sem"}>GitHub</Link>
         </P>
         <P>
-          Also take a look at my collaboration with backend developer&nbsp;
+          Также взгляните на мою коллаборацию с бэкенд разработчиком&nbsp;
           <Link href={"https://github.com/SergeyPodgorny"}>
-            Sergey Podgorny
+            Сергей Подгорный
           </Link>
           &nbsp;-&nbsp;
           <Link
@@ -28,14 +28,14 @@ export default function Home() {
           </Link>
         </P>
         <P>
-          My&nbsp;
+          Моё&nbsp;
           <Link href="/pdfs/Resume.pdf" target="_blank">
-            resume
+            резюме
           </Link>
-          &nbsp;is available for your perusal
+          &nbsp;доступно для вашего ознакомления
         </P>
         <div className={"mt-5"}>
-          <h4 className={"text-2xl"}>Contact me</h4>
+          <h4 className={"text-2xl"}>Свяжитесь со мной</h4>
           <ul className={"space-y-1"}>
             <li>
               <Link href={"http://t.me/keax4208"}>Telegram</Link>
